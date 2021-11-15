@@ -1,0 +1,19 @@
+.add-review form{
+display: flex;
+flex-direction: column;
+width: 100%;
+justify-content: center;
+align-items: center;
+}
+
+.add-review form input, textarea{
+  width: 40%;
+  margin-bottom: 10px;
+  height: 50Px;
+}
+
+.submit{
+    background-color:yellowgreen;
+    color: white;
+    cursor: pointer;
+}
