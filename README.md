@@ -6,6 +6,8 @@
 ● Niche products website, This site has order cancel, manage
 orders, add products, make an admin.
 ● The user can see her dashboard.
+● user also can cancelled his order.
+● Admin can write shipped to confirm user get products.
 ● Admin can manage products and handle this website.
 
 Description:THIS IS handicraft jewellery related website. u can vist this site and 
