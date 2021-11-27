@@ -18,7 +18,7 @@ const Home = () => {
             <Reviews></Reviews>
             {/* -----bonus part-----
                                          */}
-            <h1>Our workers</h1>
+            <h1>Our total workers</h1>
             <Workers></Workers>
         </div>
     );
